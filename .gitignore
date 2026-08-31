@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+boat_log.csv
+.claude
+CLAUDE.md
+Documentation/
